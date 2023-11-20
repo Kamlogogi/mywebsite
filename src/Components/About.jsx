@@ -24,21 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Excellent Engineer and Researcher with Over 10 Years of Experience in Renewable Off-grid Energy Systems Design with Strong Interest in Remote and Rural Area Electrification. Green Hydrogen Value Chain Enthusiast";
+  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Renewable Energy Systems Design",
-  "Electrification Solutions",
-  "Green Hydrogen Technology",
-  "Project Management",
-  "Research and Development",
-  "Technical Analysis",
-  "Communication and Collaboration",
-  "Continuous Learning",
+  "Web design",
+  "User experience",
+  "Inclusive design",
+  "Focus group testing",
+  "Mobile user interfaces",
+  "Graphic design",
 ];
 
 /**
@@ -47,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am a seasoned Engineer, Lecturer, and Researcher with over 10 years of expertise in Renewable Energy, Energy Efficiency, Off-grid Energy Systems Design, and Rural/Remote Electrification. Dedicated to impactful sustainable energy solutions, I have a proven track record in project delivery and field innovation.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
