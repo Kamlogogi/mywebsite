@@ -47,8 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "
-  I am a seasoned Engineer, Lecturer, and Researcher with over 10 years of expertise in Renewable Energy, Energy Efficiency, Off-grid Energy Systems Design, and Rural/Remote Electrification. Dedicated to impactful sustainable energy solutions, I have a proven track record in project delivery and field innovation.";
+  "I am a seasoned Engineer, Lecturer, and Researcher with over 10 years of expertise in Renewable Energy, Energy Efficiency, Off-grid Energy Systems Design, and Rural/Remote Electrification. Dedicated to impactful sustainable energy solutions, I have a proven track record in project delivery and field innovation.";
 
 const About = () => {
   return (
